@@ -1,0 +1,9 @@
+mex ./private/src/cumnorm_inplace.c -R2018a -outdir ./private
+mex ./private/src/interp_inplace.c  -R2018a -outdir ./private
+mex ./private/src/rdiff_inplace.c   -R2018a -outdir ./private
+mex ./private/src/dftoperiod.c      -R2018a -outdir ./private
+mex ./private/src/mininrange.c      -R2018a -outdir ./private
+mex ./private/src/rsmooth.c         -R2018a -outdir ./private
+mex ./private/src/dftoperiod2.c     -R2018a -outdir ./private
+mex ./private/src/minparabolic.c    -R2018a -outdir ./private
+mex ./private/src/rsum_inplace.c    -R2018a -outdir ./private
