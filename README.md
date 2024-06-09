@@ -1,6 +1,6 @@
 # Yin
 
-Mirror of the YIN matlab library matlab by Alain de Cheveigné, redistricbuted
+Mirror of the YIN matlab library matlab by Alain de Cheveigné, redistributed
 uner the terms of the original [licence](./LICENCE).
 
 The point of entry is the `yin` function which calls on other functions using
