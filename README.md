@@ -10,7 +10,7 @@ MATLAB](https://www.mathworks.com/help/matlab/matlab_prog/private-functions.html
 Yin uses c source files using the
 [MEX](https://www.mathworks.com/help/matlab/ref/mex.html) compilation system.
 Setup is partially covered in the original [`INSTALL`](./INSTALL) file. In
-addition there is a [`setupyin.m`](./setupyin.m) script which has been added to make things a
+addition there is a [`setup.m`](./setup.m) script which has been added to make things a
 little easier.
 
 ## Original Documentation
